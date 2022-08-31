@@ -50,7 +50,7 @@ Read All Commands
 
 We Suggest To use Debian v-11 else ubuntu v-20+
 ```console
-$ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
+$ git clone https://github.com/jaabirosman/Zaid-Vc-Player
 $ cd Zaid-Vc-Player
 $ bash setup
 $ cp sample.env .env
